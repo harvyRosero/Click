@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "192310132997",
+    "project_id": "click-58c96",
+    "storage_bucket": "click-58c96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192310132997:android:ae6e1bf2a197e96b6ef76c",
+        "android_client_info": {
+          "package_name": "com.hasaro.click_here"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192310132997-u5958lgj8bi2deh6c20p0g6si5ne1r15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hasaro.click_here",
+            "certificate_hash": "1f8fce153186b50d9f0a6ffd08ee1124854db677"
+          }
+        },
+        {
+          "client_id": "192310132997-gaq966l2a0uiaihoq7fi5a9mapa5edjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPqtcppIPrGBTnGqLhNZHREAPoIpt3bcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192310132997-gaq966l2a0uiaihoq7fi5a9mapa5edjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
